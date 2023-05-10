@@ -1,4 +1,4 @@
-# bulutirm.github.io
+# bulutirm.github.io/README.md
 <h1 align="center">Welcome! My name is Irem</h1>
 <h3 align="center">Software Engineering Student</h3>
 
