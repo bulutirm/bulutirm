@@ -5,13 +5,6 @@ bulutirm.github.io/README.md
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bulutirm&label=Profile%20views&color=0e75b6&style=flat" alt="bulutirm" /> </p>
 <img src="https://github.com/bulutirm/bulutirm/blob/main/assets/githubbanner.jpg" alt="Banner" width="900" height="200" class="banner">
 
-<style>
-  .banner {
-    display: block;
-    margin: 0 auto;
-  }
-</style>
-
 - 🔭 I’m currently working on **Fake face detection** project with Pyhton
 
 - 🌱 I’m currently learning **Python with Machine Learning and Image Processing.**
@@ -35,3 +28,10 @@ bulutirm.github.io/README.md
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=bulutirm&show_icons=true&locale=en&layout=compact" alt="bulutirm" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bulutirm&show_icons=true&locale=en" alt="bulutirm" /></p>
+
+<style>
+  .banner {
+    display: block;
+    margin: 0 auto;
+  }
+</style>
