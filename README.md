@@ -1,9 +1,9 @@
-bulutirm.github.io/README.md
+<img src="https://github.com/bulutirm/bulutirm/blob/main/assets/githubbanner.jpg" alt="Banner" width="900" height="200" class="banner">
 <h1 align="center">Welcome! My name is Irem</h1>
 <h3 align="center">Software Engineering Student</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bulutirm&label=Profile%20views&color=0e75b6&style=flat" alt="bulutirm" /> </p>
-<img src="https://github.com/bulutirm/bulutirm/blob/main/assets/githubbanner.jpg" alt="Banner" width="900" height="200" class="banner">
+
 
 - 🔭 I’m currently working on **Fake face detection** project with Pyhton
 
@@ -29,9 +29,3 @@ bulutirm.github.io/README.md
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bulutirm&show_icons=true&locale=en" alt="bulutirm" /></p>
 
-<style>
-  .banner {
-    display: block;
-    margin: 0 auto;
-  }
-</style>
