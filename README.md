@@ -1,6 +1,6 @@
 <img src="https://github.com/bulutirm/bulutirm/blob/main/assets/githubbanner.jpg" alt="Banner" width="900" height="200" class="banner">
-<h1 align="center">Welcome!</h1>
-<h1 align="center"> I'm Irem</h1>
+<h1 align="center"> WELCOME :sparkles: </h1>
+<h3 align="center">Irem Bulut</h3>
 <h3 align="center">Software Engineering Student</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bulutirm&label=Profile%20views&color=0e75b6&style=flat" alt="bulutirm" /> </p>
