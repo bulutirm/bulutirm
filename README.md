@@ -3,7 +3,7 @@ bulutirm.github.io/README.md
 <h3 align="center">Software Engineering Student</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bulutirm&label=Profile%20views&color=0e75b6&style=flat" alt="bulutirm" /> </p>
-<img src="https://github.com/bulutirm/bulutirm/blob/main/assets/githubbanner.jpg" alt="Banner" width="800" height="200">
+<img src="https://github.com/bulutirm/bulutirm/blob/main/assets/githubbanner.jpg" alt="Banner" width="900" height="200">
 
 
 
