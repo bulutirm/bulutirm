@@ -5,7 +5,14 @@ bulutirm.github.io/README.md
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bulutirm&label=Profile%20views&color=0e75b6&style=flat" alt="bulutirm" /> </p>
 <img src="https://github.com/bulutirm/bulutirm/blob/main/assets/githubbanner.jpg" alt="Banner" width="900" height="200">
 
-
+<head>
+  <style>
+    .banner {
+      display: block;
+      margin: 0 auto;
+    }
+  </style>
+</head>
 
 - 🔭 I’m currently working on **Fake face detection** project with Pyhton
 
