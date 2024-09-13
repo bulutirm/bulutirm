@@ -3,9 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bulutirm&label=Profile%20views&color=0e75b6&style=flat" alt="bulutirm" /> </p>
 
-- 🔭 I’m currently working on **meta-heuristic algorithm designing**
-
-- 🌱 I’m currently learning **C# Backend Development**
+- 🌱 I’m currently learning **Kotlin Backend Development**
 
 - 📝 I regularly write articles on [https://medium.com/@bulutirm06](https://medium.com/@bulutirm06)
 
