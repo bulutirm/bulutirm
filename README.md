@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on FullStack Development<br>🌱 I’m currently learning Kotlin Backend Developing<br>
+🔭 I’m currently working on FullStack Development<br>🌱 I’m currently learning Java Backend Developing<br>
 
 
 ## 🌐 Socials:
